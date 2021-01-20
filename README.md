@@ -1,2 +1,2 @@
-# MBOS
-Multiobjective Bilevel Optimization Solver
+# MOBO
+Multi-objective Bilevel Optimization Solver
