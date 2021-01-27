@@ -4,7 +4,7 @@
 
 This repository contains a MATLAB implementation of an algorithm for solving multiobjective bilevel optimization problems. The implementation was realized by Carolin Kästner as work for [Prof. Dr. Gabriele Eichfelder](https://www.tu-ilmenau.de/mmor/team/gabriele-eichfelder/) at TU Ilmenau (Institute for Mathematics).
 
-You can start using the algorithms easily by downloading or cloning this repository using the green button near the top of the GitHub page. The Documentation file will guide you through the basic usage of the algorithm, and will show you how to create and solve your own problems. It also contains a walkthrough for some demo files. 
+You can start using the algorithm easily by downloading or cloning this repository using the green button near the top of the GitHub page. The Documentation file will guide you through the basic usage of the algorithm, and will show you how to create and solve your own problems. It also contains a walkthrough for some demo files. 
 
 ## Citing
 
