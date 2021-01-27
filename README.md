@@ -1,4 +1,4 @@
-# MOBO - Multi-objective Bilevel Optimization Solver
+# MOBO - Multiobjective Bilevel Optimization Solver
 
 ## Introduction
 
